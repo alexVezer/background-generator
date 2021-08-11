@@ -1,3 +1,3 @@
 # background-generator
 
-Simple JS website which generates a liniar gradient background and shows the coresponding css.
+Simple JS website which generates a linear gradient background and provedes the corresponding CSS.
